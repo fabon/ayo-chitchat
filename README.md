@@ -24,4 +24,15 @@ Fine-tune a pre-trained BERT model to solve a qa task on our FAQ self serve cont
 1. then learn to map a user question to a faq reply sub-section,
 1. finally, make the solution robust by augmenting the set of training data with synthetic and user conversations data
 
+Data annotation: create an env to collect data from a user interacting with a baseline version of the bot
+                 the prompt will ask confirmation of the correct classification to the user, given a choice of 
+                 the top 3 highest ranked responses
+
+Start with annotating a set of 100 user questions to train a baseline method,
+then collect use the interactive prompt to scale up the training set to ~1K user queries.
+
+Experiment with synthetic data generation algos/methods to improve the final accuracy,
+share an early demo to collect real examples of user inputs.
+
+
 
