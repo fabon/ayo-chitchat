@@ -13,7 +13,7 @@ Fine-tune an engaging chit-chat dialog system for Fashion using extracts from th
 - Download and run Blender 2.7B + Safety net for toxic language
 - Chat with Blender
 - Fine-tune the model
-- Download Reedit Fashion conversations - https://www.reddit.com/r/femalefashionadvice/
+- Download Reedit Fashion conversations - https://www.reddit.com/r/femalefashionadvice/ and https://www.reddit.com/r/malefashionadvice/
 - Download ASOS conversaitons - link here
 - Deploy the model on a conversational channel
 
