@@ -34,5 +34,6 @@ then collect use the interactive prompt to scale up the training set to ~1K user
 Experiment with synthetic data generation algos/methods to improve the final accuracy,
 share an early demo to collect real examples of user inputs.
 
-
-
+# AYO Evaluation
+- Evaluate the FAQ replies using the precision and recall on a fixed held out set of samples
+- Prepare an interactive scenario where the user can rate the replies and chit-chat of the final solution - collect the feedback data in an internal deployment env
