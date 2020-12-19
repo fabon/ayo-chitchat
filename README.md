@@ -15,7 +15,7 @@ Fine-tune an engaging chit-chat dialog system for Fashion using extracts from th
 - Fine-tune the model (ParlAI tutorial: https://colab.research.google.com/drive/1bRMvN0lGXaTF5fuTidgvlAl-Lb41F7AD#scrollTo=KtVz5dCUmFkN)
 - Download Reedit Fashion conversations - https://www.reddit.com/r/femalefashionadvice/ and https://www.reddit.com/r/malefashionadvice/ use the Reedit API https://www.reddit.com/dev/api/
 - Download ASOS conversaitons - link here
-- Deploy the model on a conversational channel: ParlAI scripts - https://parl.ai/docs/tutorial_chat_service.html
+- Deploy the chit-chat model on a conversational channel: ParlAI scripts - https://parl.ai/docs/tutorial_chat_service.html
 
 # AYO-FAQ-replies
 
