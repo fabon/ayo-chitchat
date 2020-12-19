@@ -12,7 +12,7 @@ Fine-tune an engaging chit-chat dialog system for Fashion using extracts from th
 - Install ParlAI
 - Download and run Blender 2.7B + Safety net for toxic language
 - Chat with Blender
-- Fine-tune the model
+- Fine-tune the model (ParlAI tutorial: https://colab.research.google.com/drive/1bRMvN0lGXaTF5fuTidgvlAl-Lb41F7AD#scrollTo=KtVz5dCUmFkN)
 - Download Reedit Fashion conversations - https://www.reddit.com/r/femalefashionadvice/ and https://www.reddit.com/r/malefashionadvice/ use the Reedit API https://www.reddit.com/dev/api/
 - Download ASOS conversaitons - link here
 - Deploy the model on a conversational channel
