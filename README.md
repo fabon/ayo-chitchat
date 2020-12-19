@@ -10,7 +10,7 @@ Fine-tune an engaging chit-chat dialog system for Fashion using extracts from th
 
 - Set up an env to access your GPU machine
 - Install ParlAI
-- Download and run Blender 2.7B
+- Download and run Blender 2.7B + Safety net for toxic language
 - Chat with Blender
 - Fine-tune the model
 - Download Reedit Fashion conversations - https://www.reddit.com/r/femalefashionadvice/
