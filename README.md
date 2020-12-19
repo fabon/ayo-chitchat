@@ -38,7 +38,7 @@ share an early demo to collect real examples of user inputs.
 - Evaluate the FAQ replies using the precision and recall on a fixed held out set of samples
 - Prepare an interactive scenario where the user can rate the replies and chit-chat of the final solution - collect the feedback data in an internal deployment env
 
-# Recommender reads
+# Recommended reads
 - Roller, S., Dinan, E., Goyal, N., Ju, D., Williamson, M., Liu, Y., ... & Boureau, Y. L. (2020). Recipes for building an open-domain chatbot. arXiv preprint arXiv:2004.13637.
 https://arxiv.org/abs/2004.13637
 
