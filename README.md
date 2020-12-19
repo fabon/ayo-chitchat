@@ -37,3 +37,12 @@ share an early demo to collect real examples of user inputs.
 # AYO Evaluation
 - Evaluate the FAQ replies using the precision and recall on a fixed held out set of samples
 - Prepare an interactive scenario where the user can rate the replies and chit-chat of the final solution - collect the feedback data in an internal deployment env
+
+# Recommender reads
+- Roller, S., Dinan, E., Goyal, N., Ju, D., Williamson, M., Liu, Y., ... & Boureau, Y. L. (2020). Recipes for building an open-domain chatbot. arXiv preprint arXiv:2004.13637.
+https://arxiv.org/abs/2004.13637
+
+- Xu, J., Ju, D., Li, M., Boureau, Y. L., Weston, J., & Dinan, E. (2020). Recipes for Safety in Open-domain Chatbots. arXiv preprint arXiv:2010.07079.
+https://arxiv.org/abs/2010.07079
+
+https://arxiv.org/abs/2004.13637
