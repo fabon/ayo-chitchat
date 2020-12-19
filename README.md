@@ -45,4 +45,8 @@ https://arxiv.org/abs/2004.13637
 - Xu, J., Ju, D., Li, M., Boureau, Y. L., Weston, J., & Dinan, E. (2020). Recipes for Safety in Open-domain Chatbots. arXiv preprint arXiv:2010.07079.
 https://arxiv.org/abs/2010.07079
 
-https://arxiv.org/abs/2004.13637
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30, 5998-6008.
+https://arxiv.org/abs/1706.03762
+
+- Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
+https://arxiv.org/abs/1810.04805
