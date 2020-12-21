@@ -56,5 +56,5 @@ https://arxiv.org/abs/1810.04805
 - Wang, A., Singh, A., Michael, J., Hill, F., Levy, O., & Bowman, S. R. (2018). Glue: A multi-task benchmark and analysis platform for natural language understanding. arXiv preprint arXiv:1804.07461.
 https://arxiv.org/abs/1804.07461
 
-- Sarlin, P. E., DeTone, D., Malisiewicz, T., & Rabinovich, A. (2020). Superglue: Learning feature matching with graph neural networks. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 4938-4947)
-https://arxiv.org/abs/1911.11763
+- Wang, A., Pruksachatkun, Y., Nangia, N., Singh, A., Michael, J., Hill, F., ... & Bowman, S. (2019). Superglue: A stickier benchmark for general-purpose language understanding systems. In Advances in neural information processing systems (pp. 3266-3280).
+https://arxiv.org/abs/1905.00537
